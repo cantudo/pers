@@ -1,3 +1,1 @@
-# traceroute_rs
-Small traceroute implementation in Rust using libpnet.
-Supports UDP, TCP (SYN) and ICMP probes.
+# PERS (Performance Engine in RuSt)
